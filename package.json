@@ -1,0 +1,21 @@
+  {
+  "name": "m.js",
+  "version": "0.2.1",
+  "description": "3D math operations in JavaScript.",
+  "main": "m.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbarzi/m.js.git"
+  },
+  "keywords": ["3d", "m", "js", "m.js"],
+  "author": "manuelbarzi",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/manuelbarzi/m.js/issues"
+  },
+  "homepage": "https://github.com/manuelbarzi/m.js#readme"
+}
